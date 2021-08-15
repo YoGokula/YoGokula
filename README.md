@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YoGokula
+- 👋 Hi, I’m Yogesh Gokula
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on ...
